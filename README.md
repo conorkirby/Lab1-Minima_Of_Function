@@ -1,0 +1,1 @@
+# Lab1-Minima_Of_Function
